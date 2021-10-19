@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: Montserrat;
-    src: url(/assets/fonts/Montserrat-Bold.ttf);
+    src: url(assets/fonts/Montserrat-Bold.ttf);
 }
 
 @media screen and (max-width: 600px){
@@ -42,7 +42,7 @@
     
     header {
         height: 55vh;
-        background-image: url(/assets/img/studentsbg.png);
+        background-image: url(assets/img/studentsbg.png);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center top;
@@ -190,7 +190,7 @@
     
     header {
         height: 65vh;
-        background-image: url(/assets/img/studentsbg.png);
+        background-image: url(assets/img/studentsbg.png);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center top;
@@ -389,7 +389,7 @@
     
     header {
         height: 65vh;
-        background-image: url(/assets/img/studentsbg.png);
+        background-image: url(assets/img/studentsbg.png);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center top;
